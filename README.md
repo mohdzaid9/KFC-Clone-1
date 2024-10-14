@@ -65,12 +65,3 @@ ___
 <br/>
 ![screehshot5](https://miro.medium.com/max/1400/1*N_xfAdo9YiXeeyRjaAWc_w.jpeg)
 
-
-### Team
-___
-* Nameh Dhiman
-* Arpit Surana
-* Aman Jaiswal
-* MD Arshad Khan
-* Anupam Kumar
-* Arpit Chaudhary

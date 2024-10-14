@@ -232,9 +232,9 @@ export const Footer = () => {
                             <p>Copyright © KFC Corporation 2022 All Rights Reserved</p>
                         </div>
                         <div style={{ display: "flex" }} className='lastLinefoot'>
-                            <Link to={"https://www.instagram.com/_mad___boxer_/"}><img height={"30rem"} style={{ padding: "0.3vw 1vw" }} src={instagram} alt="" /></Link>
-                            <Link to={"https://www.facebook.com/people/Arshad-Khan/100004164048208/"}><img height={"30rem"} style={{ padding: "0.3vw 1vw" }} src={facebook} alt="" /></Link>
-                            <Link to={"https://www.linkedin.com/in/md-arshad-khan-350206154/"}><img height={"30rem"} style={{ padding: "0.3vw 1vw" }} src={twitter} alt="" /></Link>
+                            <Link to={"https://www.instagram.com/x_zayn_qureshi_ak47_"}><img height={"30rem"} style={{ padding: "0.3vw 1vw" }} src={instagram} alt="" /></Link>
+                            <Link to={"https://www.facebook.com/"}><img height={"30rem"} style={{ padding: "0.3vw 1vw" }} src={facebook} alt="" /></Link>
+                            <Link to={"https://www.linkedin.com/"}><img height={"30rem"} style={{ padding: "0.3vw 1vw" }} src={twitter} alt="" /></Link>
                         </div>
                     </div>
                     <div style={{ borderLeft: "gray" }} className='lastLinefoot'>
@@ -242,9 +242,9 @@ export const Footer = () => {
                     </div>
                 </div>
                 <div style={{ display: "flex" }} className='lastLinefootsvg'>
-                    <Link to={"https://www.instagram.com/_mad___boxer_/"}><img height={"30rem"} style={{ padding: "0.3vw 1vw" }} src={instagram} alt="" /></Link>
-                    <Link to={"https://www.facebook.com/people/Arshad-Khan/100004164048208/"}><img height={"30rem"} style={{ padding: "0.3vw 1vw" }} src={facebook} alt="" /></Link>
-                    <Link to={"https://www.linkedin.com/in/md-arshad-khan-350206154/"}><img height={"30rem"} style={{ padding: "0.3vw 1vw" }} src={twitter} alt="" /></Link>
+                    <Link to={"https://www.instagram.com/x_zayn_qureshi_ak47_"}><img height={"30rem"} style={{ padding: "0.3vw 1vw" }} src={instagram} alt="" /></Link>
+                    <Link to={"https://www.facebook.com"}><img height={"30rem"} style={{ padding: "0.3vw 1vw" }} src={facebook} alt="" /></Link>
+                    <Link to={"https://www.linkedin.com"}><img height={"30rem"} style={{ padding: "0.3vw 1vw" }} src={twitter} alt="" /></Link>
                 </div>
             </div>
         </FooterStyled>
